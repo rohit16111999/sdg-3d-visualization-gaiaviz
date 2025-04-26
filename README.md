@@ -1,4 +1,4 @@
-# United-Nations-Sustainable-Development-Goals-SDG-Explorer-6,16 & 17
+# United-Nations-Sustainable-Development-Goals-SDG-Explorer-6, 16 & 17
 DAEN-690-010_Team UN
 
 PROBLEM DESCRIPTION
