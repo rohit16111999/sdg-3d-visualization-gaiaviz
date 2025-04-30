@@ -9,7 +9,7 @@ PROJECT GOALS
 
 This project aims to enhance the understanding and visualization of global development efforts by mapping partnerships and indicator-level progress across selected Sustainable Development Goals (SDGs). By transforming complex and multidimensional datasets into an accessible, interactive format, the project supports both strategic policymaking and local-level engagement.
 
-For Spring 2025, we specifically focus on SDG-6 (Clean Water and Sanitation), SDG-16 (Peace, Justice, and Strong Institutions), and SDG-17 (Partnerships for the Goals). The project centers on the following critical indicators:
+For Spring 2025, we specifically focussed on SDG-6 (Clean Water and Sanitation), SDG-16 (Peace, Justice, and Strong Institutions), and SDG-17 (Partnerships for the Goals). The project centers on the following critical indicators:
 SDG-6: 6.3.1 (Wastewater treatment), 6.3.2 (Ambient water quality), 6.5.1 (Integrated water resources management), 6.a.1 (ODA to water and sanitation)
 SDG-16: 16.1.1 (Intentional homicides), 16.3.2 (Unsentenced detainees), 16.5.1 (Bribery incidence), 16.6.1 (Government expenditure as a proportion of the approved budget)
 SDG-17: 17.3.1 (Foreign direct investments, remittances, and official development assistance)                
